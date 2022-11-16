@@ -1,0 +1,25 @@
+{
+  "name": "web-developer-p6-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NKSnT/Web-Developer-P6-BackEnd"
+  },
+  "author": "NKSnT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NKSnT/Web-Developer-P6-BackEnd/issues"
+  },
+  "homepage": "https://github.com/NKSnT/Web-Developer-P6-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
